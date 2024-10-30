@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Vivabukky
-- 👀 I’m interested in Data Analysis and Frontend Web Development
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data analysis and Web development
-- 📫 How to reach me at bukkiamianat@gmail.com
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently a Data Analyst
+- 💞️ I’m looking to collaborate on Data Analysis, Data Entry, Data Visualization 
+- 📫 How to reach me at vivabukky@gmail.com
+- You can also reach out to me on my LinkedIn profile at www.linkedin.com/in/aminat-abdulateef
 - 😄 Pronouns: She
-- ⚡ Fun fact: Love to read and learn stuff
+- ⚡ Fun fact: Love to read and learn new stuff
 
 <!---
 Vivabukky/Vivabukky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
